@@ -1,1 +1,6 @@
 package forexample
+
+
+func main() {
+
+}
